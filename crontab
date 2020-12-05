@@ -1,0 +1,1 @@
+*/1 * * * * echo "Hello2" >> /var/log/script.log
